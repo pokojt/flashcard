@@ -13,25 +13,6 @@ $(function() {
   });
 });
 
-
-
-
-
-
-/*
 $(function() {
-  $("#flash").mouseenter(function() {
-    $(".definiton").toggle();
-    $("h3").toggle();
-  });
+  $(".list-group-item").flip();
 });
-
-term
-this.next.slidetoggle
-
-
-$(function() {
-  $(".change").mouseEnter(function() {
-  $(this).next().slideToggle;
-  });
-}); */
